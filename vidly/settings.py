@@ -25,7 +25,9 @@ SECRET_KEY = '4(&cj03f$$(%nb#iy%tog37rtk%dq(eqp05pvst1i*c8_v$!@*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'mighty-mesa-55876.herokuapp.com'
+]
 
 
 # Application definition
