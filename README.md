@@ -12,6 +12,10 @@ Demo:
     Admin: https://mighty-mesa-55876.herokuapp.com/admin
     un/pw: admin/1234
 
+API:
+
+    https://mighty-mesa-55876.herokuapp.com/api/movies/
+
 Heroku:
 
     $ heroku create
