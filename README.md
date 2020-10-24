@@ -1,5 +1,10 @@
 # readme for django-vidly
 
+Migrations:
+
+    $ python3 manage.py makemigrations
+    $ python3 manage.py migrate
+
 Demo:
 
     URL: https://mighty-mesa-55876.herokuapp.com/
