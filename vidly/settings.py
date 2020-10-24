@@ -26,7 +26,8 @@ SECRET_KEY = '4(&cj03f$$(%nb#iy%tog37rtk%dq(eqp05pvst1i*c8_v$!@*'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'mighty-mesa-55876.herokuapp.com'
+    'mighty-mesa-55876.herokuapp.com',
+    '127.0.0.1'
 ]
 
 

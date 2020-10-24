@@ -1,5 +1,12 @@
 # readme for django-vidly
 
+Demo:
+
+    URL: https://mighty-mesa-55876.herokuapp.com/
+
+    Admin: https://mighty-mesa-55876.herokuapp.com/admin
+    un/pw: admin/1234
+
 Heroku:
 
     $ heroku create
